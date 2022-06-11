@@ -13,6 +13,7 @@ header {
     background-color:blue;
     padding: 20px;
 }
-header p{
-    font-weight:20px;
+header p {
+    text-align: center;
+    font-size: 60px;
 }
