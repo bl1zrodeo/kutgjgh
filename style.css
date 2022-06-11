@@ -22,3 +22,11 @@ main h2{
     text-align: center;
     font-size: 60px;
 }
+
+main p {
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid navy;
+    border-radius: 15px;
+}
